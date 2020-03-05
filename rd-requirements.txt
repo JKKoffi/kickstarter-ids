@@ -1,0 +1,2 @@
+jupyter
+-r requirements.txt
